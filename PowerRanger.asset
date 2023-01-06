@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2af71932d290af7498ce45379c49115e, type: 3}
+  m_Name: PowerRanger
+  m_EditorClassIdentifier: 
+  charName: PowerRanger
+  attack: 22
+  defense: 3
+  speed: 8
+  maxHealth: 22
+  newColor: {fileID: 2100000, guid: 4ef7650b9c9f9bb4a80ff9292fba685a, type: 2}
